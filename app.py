@@ -9,7 +9,7 @@ import time
 import os
 from pathlib import Path
 
-API = os.getenv("API_BASE", "http://127.0.0.1:8000")
+API = os.getenv("API_BASE", "https://ai-brain-system-gyo0.onrender.com/")
 
 st.set_page_config(
     page_title="🧠 AI Second Brain",
