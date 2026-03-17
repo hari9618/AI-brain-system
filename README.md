@@ -14,8 +14,11 @@
 
 👉 **Try the App Here**
 
-🔗 **Live Application:**  
-https://ai-brain-system-huvejew3yhmfdszsu6te7q.streamlit.app/
+🔗 **Live Application:**
+🔗 Live Demo:
+Frontend UI (Streamlit): https://ai-brain-system-huvejew3yhmfdszsu6te7q.streamlit.app/
+Backend API (FastAPI): https://ai-brain-system-gyo0.onrender.com
+
 
 ---
 
